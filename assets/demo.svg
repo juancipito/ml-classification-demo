@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#f8fafc"/>
+<text x="56" y="72" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="850" fill="#102a43">ML Academic Classification Demo</text>
+<text x="56" y="108" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" fill="#52606d">From-scratch logistic regression workflow on synthetic learning-readiness data.</text>
+<rect x="56" y="142" width="250" height="108" rx="8" fill="#ffffff" stroke="#d9e2ec"/>
+<rect x="56" y="142" width="6" height="108" rx="3" fill="#2563eb"/>
+<text x="76" y="176" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#52606d">ROWS</text>
+<text x="76" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" fill="#102a43">320</text>
+<rect x="324" y="142" width="250" height="108" rx="8" fill="#ffffff" stroke="#d9e2ec"/>
+<rect x="324" y="142" width="6" height="108" rx="3" fill="#059669"/>
+<text x="344" y="176" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#52606d">TEST ROWS</text>
+<text x="344" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" fill="#102a43">80</text>
+<rect x="592" y="142" width="250" height="108" rx="8" fill="#ffffff" stroke="#d9e2ec"/>
+<rect x="592" y="142" width="6" height="108" rx="3" fill="#d97706"/>
+<text x="612" y="176" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#52606d">ACCURACY</text>
+<text x="612" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" fill="#102a43">0.750</text>
+<rect x="860" y="142" width="250" height="108" rx="8" fill="#ffffff" stroke="#d9e2ec"/>
+<rect x="860" y="142" width="6" height="108" rx="3" fill="#7c3aed"/>
+<text x="880" y="176" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#52606d">ROC AUC</text>
+<text x="880" y="218" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" fill="#102a43">0.875</text>
+<rect x="56" y="286" width="520" height="360" rx="8" fill="#ffffff" stroke="#d9e2ec"/>
+<text x="76" y="318" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#102a43">Synthetic data preview</text>
+<text x="76" y="359" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#334e68">Study Hours Week</text>
+<rect x="246" y="344" width="310" height="62" rx="5" fill="#2563eb"/>
+<text x="566" y="359" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#52606d">0.9229</text>
+<text x="76" y="435" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#334e68">Practice Tests</text>
+<rect x="246" y="420" width="116" height="62" rx="5" fill="#059669"/>
+<text x="372" y="435" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#52606d">0.3456</text>
+<text x="76" y="511" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#334e68">Attendance Rate</text>
+<rect x="246" y="496" width="82" height="62" rx="5" fill="#d97706"/>
+<text x="338" y="511" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#52606d">0.2466</text>
+<text x="76" y="587" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#334e68">Prior Score</text>
+<rect x="246" y="572" width="210" height="62" rx="5" fill="#7c3aed"/>
+<text x="466" y="587" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#52606d">0.6277</text>
+<rect x="616" y="286" width="528" height="360" rx="8" fill="#111827" stroke="#1f2937"/>
+<text x="636" y="320" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#d1fae5">Demo output</text>
+<text x="636" y="356" font-family="Cascadia Mono, Consolas, monospace" font-size="16" fill="#e5e7eb">python ml_demo.py</text>
+<text x="636" y="381" font-family="Cascadia Mono, Consolas, monospace" font-size="16" fill="#e5e7eb">Accuracy: 0.750</text>
+<text x="636" y="406" font-family="Cascadia Mono, Consolas, monospace" font-size="16" fill="#e5e7eb">Precision/Recall/F1: 0.733/0.805/0.767</text>
+<text x="636" y="431" font-family="Cascadia Mono, Consolas, monospace" font-size="16" fill="#e5e7eb">Implementation: NumPy gradient descent, no real learner records.</text>
+<text x="56" y="686" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#52606d">README demo asset generated from repository code/data. Sample data is synthetic.</text>
+</svg>
